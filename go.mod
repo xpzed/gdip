@@ -1,4 +1,4 @@
-module gdip
+module github.com/xpzed/gdip
 
 go 1.17
 
